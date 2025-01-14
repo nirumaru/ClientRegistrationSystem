@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|d:\\programming assignment\\draft 1\\clientregistrationapp\\clientregistrationapp\\createeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|solutionrelative:clientregistrationapp\\createeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\clientregistrationapp\\createeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|solutionrelative:clientregistrationapp\\createeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|d:\\programming assignment\\draft 1\\clientregistrationapp\\clientregistrationapp\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|solutionrelative:clientregistrationapp\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|d:\\programming assignment\\draft 1\\clientregistrationapp\\clientregistrationapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|solutionrelative:clientregistrationapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|d:\\programming assignment\\draft 1\\clientregistrationapp\\clientregistrationapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|c:\\users\\user\\documents\\github\\clientregistrationsystem\\clientregistrationapp\\clientregistrationapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|solutionrelative:clientregistrationapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\clientregistrationapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\clientregistrationapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|solutionrelative:clientregistrationapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|c:\\users\\user\\documents\\github\\clientregistrationsystem\\clientregistrationapp\\clientregistrationapp\\createeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|solutionrelative:clientregistrationapp\\createeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\clientregistrationapp\\createeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|solutionrelative:clientregistrationapp\\createeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|c:\\users\\user\\documents\\github\\clientregistrationsystem\\clientregistrationapp\\clientregistrationapp\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EDD7DA-695A-4914-82D0-49EE2F2CBDE0}|ClientRegistrationApp\\ClientRegistrationApp.csproj|solutionrelative:clientregistrationapp\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,16 +30,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Homepage.cs [Design]",
-              "DocumentMoniker": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\Homepage.cs",
               "RelativeDocumentMoniker": "ClientRegistrationApp\\Homepage.cs",
-              "ToolTip": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\Homepage.cs [Design]",
-              "RelativeToolTip": "ClientRegistrationApp\\Homepage.cs [Design]",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\Homepage.cs [Design]*",
+              "RelativeToolTip": "ClientRegistrationApp\\Homepage.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T16:52:01.954Z",
               "IsPinned": true,
@@ -51,67 +47,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Homepage.cs",
-              "DocumentMoniker": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\Homepage.cs",
               "RelativeDocumentMoniker": "ClientRegistrationApp\\Homepage.cs",
-              "ToolTip": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\Homepage.cs",
-              "RelativeToolTip": "ClientRegistrationApp\\Homepage.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwFQAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\Homepage.cs*",
+              "RelativeToolTip": "ClientRegistrationApp\\Homepage.cs*",
+              "ViewState": "AgIAANcAAAAAAAAAAAAqwPIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T12:28:19.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateEditForm.cs [Design]",
-              "DocumentMoniker": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\CreateEditForm.cs",
-              "RelativeDocumentMoniker": "ClientRegistrationApp\\CreateEditForm.cs",
-              "ToolTip": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\CreateEditForm.cs [Design]",
-              "RelativeToolTip": "ClientRegistrationApp\\CreateEditForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T19:02:51.265Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CreateEditForm.cs",
-              "DocumentMoniker": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\CreateEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\CreateEditForm.cs",
               "RelativeDocumentMoniker": "ClientRegistrationApp\\CreateEditForm.cs",
-              "ToolTip": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\CreateEditForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\CreateEditForm.cs",
               "RelativeToolTip": "ClientRegistrationApp\\CreateEditForm.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAswE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T19:14:12.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientRepository.cs",
-              "DocumentMoniker": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\Repositories\\ClientRepository.cs",
-              "RelativeDocumentMoniker": "ClientRegistrationApp\\Repositories\\ClientRepository.cs",
-              "ToolTip": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\Repositories\\ClientRepository.cs",
-              "RelativeToolTip": "ClientRegistrationApp\\Repositories\\ClientRepository.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAuwKIAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CreateEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\CreateEditForm.cs",
+              "RelativeDocumentMoniker": "ClientRegistrationApp\\CreateEditForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\CreateEditForm.cs [Design]",
+              "RelativeToolTip": "ClientRegistrationApp\\CreateEditForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T15:18:46.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T19:02:51.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "ClientRegistrationApp\\Models\\Client.cs",
-              "ToolTip": "D:\\Programming Assignment\\Draft 1\\ClientRegistrationApp\\ClientRegistrationApp\\Models\\Client.cs",
-              "RelativeToolTip": "ClientRegistrationApp\\Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "ClientRegistrationApp\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ClientRegistrationSystem\\ClientRegistrationApp\\ClientRegistrationApp\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "ClientRegistrationApp\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowEEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T15:16:29.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T15:18:46.562Z"
             }
           ]
         }

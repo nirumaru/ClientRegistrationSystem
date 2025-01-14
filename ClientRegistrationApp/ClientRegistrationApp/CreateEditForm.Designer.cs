@@ -41,6 +41,8 @@
             txtboxAddress = new TextBox();
             btnSave = new Button();
             btnCancel = new Button();
+            lblCategory = new Label();
+            txtboxCategory = new TextBox();
             SuspendLayout();
             // 
             // lblEnroll
@@ -141,7 +143,7 @@
             // 
             // btnSave
             // 
-            btnSave.Location = new Point(220, 272);
+            btnSave.Location = new Point(220, 300);
             btnSave.Margin = new Padding(3, 2, 3, 2);
             btnSave.Name = "btnSave";
             btnSave.Size = new Size(82, 22);
@@ -152,7 +154,7 @@
             // 
             // btnCancel
             // 
-            btnCancel.Location = new Point(426, 272);
+            btnCancel.Location = new Point(384, 300);
             btnCancel.Margin = new Padding(3, 2, 3, 2);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(82, 22);
@@ -161,11 +163,30 @@
             btnCancel.UseVisualStyleBackColor = true;
             btnCancel.Click += btnCancel_Click;
             // 
+            // lblCategory
+            // 
+            lblCategory.AutoSize = true;
+            lblCategory.Location = new Point(83, 265);
+            lblCategory.Name = "lblCategory";
+            lblCategory.Size = new Size(55, 15);
+            lblCategory.TabIndex = 5;
+            lblCategory.Text = "Category";
+            // 
+            // txtboxCategory
+            // 
+            txtboxCategory.Location = new Point(220, 265);
+            txtboxCategory.Margin = new Padding(3, 2, 3, 2);
+            txtboxCategory.Name = "txtboxCategory";
+            txtboxCategory.Size = new Size(364, 23);
+            txtboxCategory.TabIndex = 6;
+            // 
             // CreateEditForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(674, 344);
+            Controls.Add(txtboxCategory);
+            Controls.Add(lblCategory);
             Controls.Add(btnCancel);
             Controls.Add(btnSave);
             Controls.Add(txtboxAddress);
@@ -200,5 +221,7 @@
         private TextBox txtboxAddress;
         private Button btnSave;
         private Button btnCancel;
+        private Label lblCategory;
+        private TextBox txtboxCategory;
     }
 }

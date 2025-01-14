@@ -43,6 +43,8 @@ namespace ClientRegistrationApp.Repositories
                                 client.email = reader.GetString(2);
                                 client.phonenumber = reader.GetString(3);
                                 client.address = reader.GetString(4);
+                                client.category = reader.GetString(5);
+
 
                                 clients.Add(client);
                             }
@@ -86,6 +88,7 @@ namespace ClientRegistrationApp.Repositories
                                 client.email = reader.GetString(2);
                                 client.phonenumber = reader.GetString(3);
                                 client.address = reader.GetString(4);
+                                client.category = reader.GetString(5);
 
                                 return client;
 
@@ -114,8 +117,8 @@ namespace ClientRegistrationApp.Repositories
 
                     //query to insert client data 
                     string sql = "INSERT INTO clients " +
-                                 "(name, email, phonenumber, address) VALUES" +
-                                 "(@name, @email, @phonenumber, @address);";
+                                 "(name, email, phonenumber, address, category) VALUES" +
+                                 "(@name, @email, @phonenumber, @address, @category);";
 
                     
                     using (SqlCommand command = new SqlCommand(sql, connection))
@@ -125,6 +128,7 @@ namespace ClientRegistrationApp.Repositories
                         command.Parameters.AddWithValue("@email", client.email);
                         command.Parameters.AddWithValue("@phonenumber", client.phonenumber);
                         command.Parameters.AddWithValue("@address", client.address);
+                        command.Parameters.AddWithValue("@category", client.category);
 
                         command.ExecuteNonQuery();
                     }
@@ -159,6 +163,7 @@ namespace ClientRegistrationApp.Repositories
                         command.Parameters.AddWithValue("@email", client.email);
                         command.Parameters.AddWithValue("@phonenumber", client.phonenumber);
                         command.Parameters.AddWithValue("@address", client.address);
+                        command.Parameters.AddWithValue("@category", client.category);
 
                         command.ExecuteNonQuery();
                     }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,9 +14,11 @@ namespace ClientRegistrationApp.Models
         // the fields id, name, email, phonenumer, address will serve as attributes of the Client class
         // TODO: use get set on each of these fields or attributes
         public int id;
-        public string name = "";
-        public string email = "";
-        public string phonenumber = "";
-        public string address = "";
+        public string name { get; set; } = "";
+        public string email { get; set; } = "";
+        public string phonenumber { get; set; } = "";
+        public string address { get; set; } = "";
+        public string category { get; set; } = "";
+
     }
 }
