@@ -1,0 +1,107 @@
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.exe
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.deps.json
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.runtimeconfig.json
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.pdb
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.csproj.GenerateResource.cache
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.AssemblyInfoInputs.cache
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.AssemblyInfo.cs
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.csproj.CoreCompileInputs.cache
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\refint\ClientRegistrationSystem.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.pdb
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.genruntimeconfig.cache
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ref\ClientRegistrationSystem.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.csproj.AssemblyReference.cache
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.ClientRegistrationSystem.resources
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRe.56878C08.Up2Date
+D:\lectures and labs\Computer Programming\assignments and materials\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.CreateEditForm.resources
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.exe
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.deps.json
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.runtimeconfig.json
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ClientRegistrationSystem.pdb
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.ClientRegistrationSystem.resources
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.CreateEditForm.resources
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.sourcelink.json
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRe.56878C08.Up2Date
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\refint\ClientRegistrationSystem.dll
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.pdb
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ClientRegistrationSystem.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\ClientRegistrationSystem\ClientRegistrationSystem\ClientRegistrationSystem\obj\Debug\net8.0-windows\ref\ClientRegistrationSystem.dll
